@@ -1,0 +1,1 @@
+Implementation of the Tetris game using Java OOP principles using Javafx. Certain features includes pausing and starting the game, reactivity on keyboard commands, and the ability to save a previous game and load into that previous game.
